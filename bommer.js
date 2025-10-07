@@ -597,7 +597,7 @@ function logTaydaOrders(parts) {
 
 /** ---------- CLI Entry Point ---------- **/
 async function main() {
-  const inputPath = process.argv[2] || "./subset";
+  const inputPath = process.argv[2] || "./pdfs";
   let accumulatedParts = [];
 
   if (fs.existsSync(inputPath)) {
