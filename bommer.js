@@ -619,6 +619,7 @@ async function main() {
   const bom = extractBOM(accumulatedParts);
   console.table(bom);
 
+  console.log(`\n=== Tayda Quick Order ===`);
   logTaydaOrders(bom);
 }
 
