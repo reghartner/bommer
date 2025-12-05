@@ -577,9 +577,10 @@ function logTaydaOrders(parts) {
   for (const part of parts) {
     let thisSku;
     const multiplesOfTen = ["resistor", "ceramic"];
+    const originalQuantity = part.quantity;
     if (multiplesOfTen.includes(part.type)) part.quantity = Math.ceil(part.quantity / 10) * 10;
     if (skus[part.type] && (thisSku = skus[part.type][part.value])) {
-      console.log(`${thisSku},${part.quantity}`);
+      console.log(`${thisSku},${part.quantity}\t\t ${part.value} ${part.type}, originalQty: ${originalQuantity}`);
     } else {
       stillToOrder.push(part);
     }
