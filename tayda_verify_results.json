@@ -1,0 +1,1516 @@
+[
+  {
+    "type": "electrolytic",
+    "value": "1500u_6.3V",
+    "sku": "A-8067",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1500uF 6.3V 105C PSS Radial Polymer Aluminum Electrolytic Capacitor 10x12.5mm",
+    "url": "https://www.taydaelectronics.com/1500uf-6-3v-105c-pss-radial-polymer-aluminum-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1000u_25V",
+    "sku": "A-8491",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1000uF 25V 105C Radial Electrolytic Capacitor 10x20mm Long Life PANASONIC",
+    "url": "https://www.taydaelectronics.com/1000uf-25v-105c-radial-electrolytic-capacitor-10x20mm-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_63V",
+    "sku": "A-8492",
+    "info": {
+      "voltage": "63V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 63V 105C Radial Electrolytic Capacitor 10x12.5mm Long Life PANASONIC",
+    "url": "https://www.taydaelectronics.com/100uf-25v-105c-radial-electrolytic-capacitor-10x20mm-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_25V",
+    "sku": "A-8403",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 25V 105C Radial Electrolytic Capacitor 8x11mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/220uf-25v-105c-radial-electrolytic-capacitor-8x11.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_50V",
+    "sku": "A-8062",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "10uF 50V 105C PSS Radial Polymer Aluminum Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/10uf-50v-105c-pss-radial-polymer-aluminum-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_50V",
+    "sku": "A-8061",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 50V 105C PSS Radial Polymer Aluminum Electrolytic Capacitor 6.3x12mm",
+    "url": "https://www.taydaelectronics.com/100uf-50v-105c-pss-radial-polymer-aluminum-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_400V",
+    "sku": "A-7809",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 400V 105C Radial Electrolytic Capacitor",
+    "url": "https://www.taydaelectronics.com/220uf-400v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_250V",
+    "sku": "A-7808",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 250V 85C Radial Electrolytic Capacitor",
+    "url": "https://www.taydaelectronics.com/220uf-250v-85c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_450V",
+    "sku": "A-7711",
+    "info": {
+      "voltage": "450V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "47uF 450V 105C Radial Electrolytic Capacitor",
+    "url": "https://www.taydaelectronics.com/47uf-450v-105c-radial-electrolytic-capacitor-15x30mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_6.3V",
+    "sku": "A-7698",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "470uF 6.3V 85C Radial Electrolytic Capacitor 6.3x11mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/470uf-6-3v-85c-radial-electrolytic-capacitor-6-3-x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_63V",
+    "sku": "A-7697",
+    "info": {
+      "voltage": "63V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4.7uF 63V 85C Radial Electrolytic Capacitor 5x11mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/4-7uf-50v-85c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2200u_50V",
+    "sku": "A-7696",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "2200uF 50V 105C Radial Electrolytic Capacitor 18x35mm PANASONIC 5000H",
+    "url": "https://www.taydaelectronics.com/2200uf-50v-105c-radial-electrolytic-capacitor-18x35mm-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_35V",
+    "sku": "A-7257",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "47uF 35V 105C Aluminum Electrolytic Capacitor 6.3x11mm 4000 to 10000hrs AISHI",
+    "url": "https://www.taydaelectronics.com/47uf-35v-105c-aluminum-radial-electrolytic-capacitor-aishi-4000.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2.2u_50V",
+    "sku": "A-7122",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": false
+    },
+    "issues": [],
+    "title": "2.2uF 50V 85C 5x11mm Electrolytic Capacitor AISHI",
+    "url": "https://www.taydaelectronics.com/2-2-uf-50v-85c-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "0.1u_50V",
+    "sku": "A-7024",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "0.1uF 50V 85C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/0-1uf-50v-85c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_16V",
+    "sku": "A-6928",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "47uF 16V 85C Radial Electrolytic Capacitor 5x11mm SAMXON",
+    "url": "https://www.taydaelectronics.com/47uf-16v-105c-radial-electrolytic-capacitor-5x11mm-samxon.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "3300u_50V",
+    "sku": "A-6899",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "3300uF 50V 85C Radial Electrolytic Capacitor 18x35mm AISHI",
+    "url": "https://www.taydaelectronics.com/3300uf-50v-85c-radial-electrolytic-capacitor-18x35mm-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_25V",
+    "sku": "A-6898",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "10uF 25V 105C Aluminum Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/10uf-25v-105c-aluminum-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4700u_35V",
+    "sku": "A-6896",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4700uF 35V 85C Aluminum Electrolytic Capacitor 18x35mm",
+    "url": "https://www.taydaelectronics.com/4700uf-35v-85c-aluminum-electrolytic-capacitor-18x35mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "330u_400V",
+    "sku": "A-6869",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "330uF 400V 105C Radial Electrolytic Capacitor 35x30mm",
+    "url": "https://www.taydaelectronics.com/330uf-400v-105c-radial-electrolytic-capacitor-35x30mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_100V",
+    "sku": "A-6777",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 100V 105C Aluminum Electrolytic Capacitor 10x16mm CHANG",
+    "url": "https://www.taydaelectronics.com/100uf-100v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "33u_35V",
+    "sku": "A-6776",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "33uF 35V 85C Aluminum Electrolytic Capacitor 5x11mm AISHI",
+    "url": "https://www.taydaelectronics.com/33uf-35v-85c-aluminum-radial-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "330u_25V",
+    "sku": "A-6775",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "330uF 25V 105C Aluminum Electrolytic Capacitor 8x12mm AISHI",
+    "url": "https://www.taydaelectronics.com/330uf-25v-105c-aluminum-radial-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "560u_100V",
+    "sku": "A-6774",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "560uF 100V 105C Aluminum Electrolytic Capacitor 18x25mm AISHI",
+    "url": "https://www.taydaelectronics.com/560uf-100v-105c-aluminum-radial-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "680u_25V",
+    "sku": "A-6773",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "680uF 25V 105C Aluminum Electrolytic Capacitor 10x16mm AISHI",
+    "url": "https://www.taydaelectronics.com/680uf-25v-105c-aluminum-radial-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "680u_16V",
+    "sku": "A-6770",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "680uF 16V 105C Aluminum Electrolytic Capacitor 10x13mm AISHI",
+    "url": "https://www.taydaelectronics.com/680uf-16v-105c-aluminum-radial-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_10V",
+    "sku": "A-6769",
+    "info": {
+      "voltage": "10V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 10V < 25V minimum"
+    ],
+    "title": "470uF 10V 105C Aluminum Electrolytic Capacitor 8x11mm AISHI",
+    "url": "https://www.taydaelectronics.com/470uf-10v-105c-aluminum-radial-electrolytic-capacitor-aishi.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1000u_10V",
+    "sku": "A-7857",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_16V",
+    "sku": "A-7952",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "3.3u_50V",
+    "sku": "A-6767",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "3.3uF 50V 105C Aluminum Electrolytic Capacitor 5x11mm AISHI Bi-Polarized",
+    "url": "https://www.taydaelectronics.com/3-3-uf-50v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1000u_50V",
+    "sku": "A-6766",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1000uF 50V 105C Aluminum Electrolytic Capacitor 12.5x25mm SAMXON",
+    "url": "https://www.taydaelectronics.com/1000uf-50v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1000u_16V",
+    "sku": "A-6765",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "1000uF 16V 105C Aluminum Electrolytic Capacitor 10x20mm SAMXON",
+    "url": "https://www.taydaelectronics.com/1000uf-16v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_10V",
+    "sku": "A-6481",
+    "info": {
+      "voltage": "10V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 10V < 25V minimum"
+    ],
+    "title": "47uF 10V 85C Aluminum Electrolytic Capacitor 5x11mm SAMXON",
+    "url": "https://www.taydaelectronics.com/58799-dup-47-uf-63v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "3300u_6.3V",
+    "sku": "A-6673",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "3300uF 6.3V 105C Radial Electrolytic Capacitor 13x25mm",
+    "url": "https://www.taydaelectronics.com/3300uf-6-3-v-105c-radial-electrolytic-capacitor-13x25mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_25V",
+    "sku": "A-6478",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 25V 105C Aluminum Electrolytic Capacitor 6.3x15mm NICHICON",
+    "url": "https://www.taydaelectronics.com/100uf-25v-105c-aluminum-radial-electrolytic-capacitor-nichicon.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_63V",
+    "sku": "A-6480",
+    "info": {
+      "voltage": "63V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "47uF 63V 105C Aluminum Electrolytic Capacitor 6.3x11mm SAMXON",
+    "url": "https://www.taydaelectronics.com/47-uf-63v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_50V",
+    "sku": "A-6479",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4.7uF 50V 85C Aluminum Electrolytic Capacitor 5x11mm AISHI",
+    "url": "https://www.taydaelectronics.com/4-7-uf-50v-85c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1000u_35V",
+    "sku": "A-6476",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1000uF 35V 105C Aluminum Electrolytic Capacitor 13x25mm NICHICON",
+    "url": "https://www.taydaelectronics.com/1000uf-35v-105c-aluminum-radial-electrolytic-capacitor-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2.2u_100V",
+    "sku": "A-6392",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "2.2uF 100V 105C Aluminum Electrolytic Capacitor 5x11mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/2-2uf-100v-105c-aluminum-radial-electrolytic-capacitor-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_16V",
+    "sku": "A-6477",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "22uF 16V 105C Aluminum Electrolytic Capacitor 5x11mm NICHICON",
+    "url": "https://www.taydaelectronics.com/22uf-16v-105c-aluminum-radial-electrolytic-capacitor-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "33u_50V",
+    "sku": "A-6388",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "33uF 50V 105C Aluminum Electrolytic Capacitor 5x11mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/33uf-50v-105c-aluminum-radial-electrolytic-capacitor-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_50V",
+    "sku": "A-6390",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "470uF 50V 85C Aluminum Electrolytic Capacitor 13x21mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/470uf-50v-85c-aluminum-radial-electrolytic-capacitor-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_50V",
+    "sku": "A-6389",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 50V 85C Aluminum Electrolytic Capacitor 10x16mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/220uf-50v-105c-aluminum-radial-electrolytic-capacitor-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_35V",
+    "sku": "A-6386",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "470uF 35V 105C Aluminum Electrolytic Capacitor 8x20mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/470uf-35v-105c-aluminum-radial-electrolytic-capacitor-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_35V",
+    "sku": "A-6384",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 35V 85C Aluminum Electrolytic Capacitor 5x11mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/22uf-35v-85c-aluminum-electrolytic-capacitor-5x11mm-multicomp-pro.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "330u_35V",
+    "sku": "A-6385",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "330uF 35V 105C Aluminum Electrolytic Capacitor 10x16mm EPCOS",
+    "url": "https://www.taydaelectronics.com/330uf-35v-105c-aluminum-electrolytic-capacitor-10x16mm-epcos.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2200u_16V",
+    "sku": "A-6377",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "2200uF 16V 85C Aluminum Electrolytic Capacitor 13x21mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/2200uf-16v-85c-aluminum-radial-electrolytic-capacitor-multicomp-pro.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1500u_16V",
+    "sku": "A-6376",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "1500uF 16V 105C Aluminum Electrolytic Capacitor 10x20mm RUBYCON",
+    "url": "https://www.taydaelectronics.com/1500uf-16v-105c-aluminum-radial-electrolytic-capacitor-rubycon.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "330u_16V",
+    "sku": "A-6378",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "330uF 16V 85C Aluminum Electrolytic Capacitor 8x11mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/330uf-16v-85c-aluminum-radial-electrolytic-capacitor-multicomp-pro.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "3300u_16V",
+    "sku": "A-6374",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "3300uF 16V 85C Aluminum Electrolytic Capacitor 13x26mm MULTICOMP PRO",
+    "url": "https://www.taydaelectronics.com/3300uf-16-v-85c-aluminum-radial-electrolytic-capacitor-multicomp-pro.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1800u_6.3V",
+    "sku": "A-6361",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1800uF 6.3V 105C Aluminum Electrolytic Capacitor 8x20mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/1800uf-6-3-v-105c-aluminum-radial-electrolytic-capacitor-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_10V",
+    "sku": "A-6358",
+    "info": {
+      "voltage": "10V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 10V < 25V minimum"
+    ],
+    "title": "220uF 10V 105C Aluminum Electrolytic Capacitor 6.3x11mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/220uf-10v-105c-aluminum-radial-electrolytic-capacitor-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2200u_6.3V",
+    "sku": "A-6362",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "2200uF 6.3V 105C Aluminum Electrolytic Capacitor 10x20mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/2200uf-6-3-v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_63V",
+    "sku": "A-6356",
+    "info": {
+      "voltage": "63V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "10uF 63V 105C Aluminum Electrolytic Capacitor 5x11mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/10uf-63v-105c-aluminum-radial-electrolytic-capacitor-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_16V",
+    "sku": "A-6349",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "10uF 16V 85C Aluminum Electrolytic Capacitor 5x11mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/10uf-16v-105c-aluminum-radial-electrolytic-capacitor-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_63V",
+    "sku": "A-6348",
+    "info": {
+      "voltage": "63V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 63V 105C Aluminum Electrolytic Capacitor 10x16mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/220uf-63v-105c-aluminum-radial-electrolytic-capacitor-panasonic.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "120u_450V",
+    "sku": "A-6086",
+    "info": {
+      "voltage": "450V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "120uF 450V 105C Aluminum Electrolytic Capacitor 18x32mm",
+    "url": "https://www.taydaelectronics.com/120uf-450v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_35V",
+    "sku": "A-6647",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "33u_25V",
+    "sku": "A-5724",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "33uF 25V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/33uf-25v-105c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "3300u_25V",
+    "sku": "A-5669",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "3300uF 25V 85C Radial Electrolytic Capacitor 16x25mm",
+    "url": "https://www.taydaelectronics.com/3300uf-25v-85c-radial-electrolytic-capacitor-16x25.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_400V",
+    "sku": "A-5404",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "47uF 400V 85C Radial Electrolytic Capacitor 16x25mm",
+    "url": "https://www.taydaelectronics.com/47uf-400v-85c-radial-electrolytic-capacitor-16x25mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2200u_25V",
+    "sku": "A-4786",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "2200uF 25V 85C Radial Electrolytic Capacitor 13x25mm",
+    "url": "https://www.taydaelectronics.com/2200uf-25v-85c-radial-electrolytic-capacitor-13x25mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_25V",
+    "sku": "A-4784",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 25V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/22uf-25v-85c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_25V",
+    "sku": "A-4783",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "470uF 25V 85C Radial Electrolytic Capacitor 10x13mm",
+    "url": "https://www.taydaelectronics.com/470uf-25v-85c-radial-electrolytic-capacitor-10x13mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "0.33u_50V",
+    "sku": "A-4679",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "0.33uF 50V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/0-33-uf-50v-105c-radial-electrolytic-capacitor-20-multicomp.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_50V",
+    "sku": "A-6346",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_25V",
+    "sku": "A-6062",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "330u_50V",
+    "sku": "A-4303",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "330uF 50V 105C Radial Electrolytic Capacitor 10x17mm",
+    "url": "https://www.taydaelectronics.com/330uf-50v-105c-radial-electrolytic-capacitor-10x17mm-1.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_450V",
+    "sku": "A-5670",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "120u_63V",
+    "sku": "A-3945",
+    "info": {
+      "voltage": "63V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "120uF 63V 105C Aluminum Electrolytic Capacitor 8x15mm PANASONIC",
+    "url": "https://www.taydaelectronics.com/120uf-63v-105c-aluminum-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "820u_6.3V",
+    "sku": "A-3944",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "820uF 6.3V 105C Radial Electrolytic Capacitor 8x11.5mm",
+    "url": "https://www.taydaelectronics.com/820uf-6-3v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4700u_16V",
+    "sku": "A-3933",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "4700uF 16V 85C Radial Electrolytic Capacitor 16x25mm",
+    "url": "https://www.taydaelectronics.com/4700uf-16v-85c-radial-electrolytic-capacitor-16x25mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "560u_35V",
+    "sku": "A-3943",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "560uF 35V 105C Radial Electrolytic Capacitor 12.5x20mm",
+    "url": "https://www.taydaelectronics.com/560uf-35v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_400V",
+    "sku": "A-3338",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4.7uF 400V 105C Radial Electrolytic Capacitor 10x16mm",
+    "url": "https://www.taydaelectronics.com/4-7uf-400v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_35V",
+    "sku": "A-3484",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 35V 85C Radial Electrolytic Capacitor 8x12mm",
+    "url": "https://www.taydaelectronics.com/220uf-35v-85c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "6.8u_400V",
+    "sku": "A-3337",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "6.8uF 400V 105C Radial Electrolytic Capacitor 10x16mm",
+    "url": "https://www.taydaelectronics.com/6-8uf-400v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_400V",
+    "sku": "A-3336",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 400V 105C Radial Electrolytic Capacitor 12.5x20mm",
+    "url": "https://www.taydaelectronics.com/22uf-400v-105c-radial-electrolytic-capacitor-km-series.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_450V",
+    "sku": "A-3335",
+    "info": {
+      "voltage": "450V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 450V 105C Radial Electrolytic Capacitor 16x25mm",
+    "url": "https://www.taydaelectronics.com/22uf-450v-105c-radial-electrolytic-capacitor-16x25mm-km-series.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_450V",
+    "sku": "A-3334",
+    "info": {
+      "voltage": "450V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "10uF 450V 85C Radial Electrolytic Capacitor 10x20mm",
+    "url": "https://www.taydaelectronics.com/10uf-450v-85c-radial-electrolytic-capacitor-10x20mm-wk-series.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_400V",
+    "sku": "A-4367",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_450V",
+    "sku": "A-3333",
+    "info": {
+      "voltage": "450V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4.7uF 450V 105C Radial Electrolytic Capacitor 8x12mm",
+    "url": "https://www.taydaelectronics.com/4-7uf-450v-105c-radial-electrolytic-capacitor-8x12mm-wh-series.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_35V",
+    "sku": "A-3199",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "10uF 35V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/10uf-35v-105c-radial-electrolytic-capacitor-5x11mm-km-series.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_16V",
+    "sku": "A-1159",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "220uF 16V 105C JRB Radial Electrolytic Capacitor 6.3x11mm",
+    "url": "https://www.taydaelectronics.com/220uf-16v-jrb-radial-electrolytic-capacitor-6-3x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_16V",
+    "sku": "A-1079",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "470uF 16V 105C JRB Radial Electrolytic Capacitor 8x12mm",
+    "url": "https://www.taydaelectronics.com/470uf-16v-105c-jrb-radial-electrolytic-capacitor-8x12mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4700u_25V",
+    "sku": "A-1077",
+    "info": {
+      "voltage": "25V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4700uF 25V 105C JRB Radial Electrolytic Capacitor 16x25mm",
+    "url": "https://www.taydaelectronics.com/4700uf-25v-105c-jrb-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_100V",
+    "sku": "A-4349",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "0.47u_50V",
+    "sku": "A-1071",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "0.47uF 50V 105C JRB Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/0-47uf-50v-105c-jrb-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_35V",
+    "sku": "A-987",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 35V 105C JRB Radial Electrolytic Capacitor 6.3x11mm",
+    "url": "https://www.taydaelectronics.com/100uf-35v-105c-jrb-radial-electrolytic-capacitor-6x12mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "3.3u_100V",
+    "sku": "A-2579",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div>…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_50V",
+    "sku": "A-958",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 50V 105C JRB Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/22uf-50v-105c-jrb-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_10V",
+    "sku": "A-1063",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "2.2u_25V",
+    "sku": "A-1066",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "10000u_16V",
+    "sku": "A-2928",
+    "info": {
+      "voltage": "16V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [
+      "voltage 16V < 25V minimum"
+    ],
+    "title": "10000uF 16V 105C Radial Electrolytic Capacitor 18x35mm",
+    "url": "https://www.taydaelectronics.com/10000uf-16v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "680u_100V",
+    "sku": "A-2926",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "680uF 100V 105C Radial Electrolytic Capacitor 16x35mm",
+    "url": "https://www.taydaelectronics.com/680uf-100v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "220u_100V",
+    "sku": "A-2924",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "220uF 100V 105C Radial Electrolytic Capacitor 13x26mm",
+    "url": "https://www.taydaelectronics.com/220uf-100v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "180u_50V",
+    "sku": "A-2923",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "180uF 50V 105C Radial Electrolytic Capacitor 10x12mm",
+    "url": "https://www.taydaelectronics.com/180uf-50v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "150u_50V",
+    "sku": "A-2922",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "150uF 50V 105C Radial Electrolytic Capacitor 10x12mm",
+    "url": "https://www.taydaelectronics.com/150uf-50v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "47u_100V",
+    "sku": "A-2920",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "47uF 100V 105C Radial Electrolytic Capacitor 10x12.5mm",
+    "url": "https://www.taydaelectronics.com/47uf-100v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "33u_100V",
+    "sku": "A-2919",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "33uF 100V 105C Radial Electrolytic Capacitor 8x12mm",
+    "url": "https://www.taydaelectronics.com/33uf-100v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_250V",
+    "sku": "A-2918",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 250V 105C Radial Electrolytic Capacitor 10x17mm",
+    "url": "https://www.taydaelectronics.com/22uf-250v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_16V",
+    "sku": "A-975",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  },
+  {
+    "type": "electrolytic",
+    "value": "22u_100V",
+    "sku": "A-2917",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "22uF 100V 105C Radial Electrolytic Capacitor 6.3x12mm",
+    "url": "https://www.taydaelectronics.com/22uf-100v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2.2u_250V",
+    "sku": "A-2914",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "2.2uF 250V 105C Radial Electrolytic Capacitor 6.3x11mm",
+    "url": "https://www.taydaelectronics.com/2-2uf-250v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_250V",
+    "sku": "A-2915",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4.7uF 250V 105C Radial Electrolytic Capacitor 8x12mm",
+    "url": "https://www.taydaelectronics.com/4-7uf-250v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1u_400V",
+    "sku": "A-2913",
+    "info": {
+      "voltage": "400V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1uF 400V 105C Radial Electrolytic Capacitor 8x12mm",
+    "url": "https://www.taydaelectronics.com/1uf-400v-105c-radial-electrolytic-capacitor.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "10u_250V",
+    "sku": "A-1616",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "10uF 250V 105C Radial Electrolytic Capacitor 10x13mm",
+    "url": "https://www.taydaelectronics.com/10uf-250v-105c-radial-electrolytic-capacitor-10x13mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4.7u_100V",
+    "sku": "A-1614",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4.7uF 100V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/4-7uf-100v-105c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1u_250V",
+    "sku": "A-1613",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1uF 250V 105C Radial Electrolytic Capacitor 6.3x12mm",
+    "url": "https://www.taydaelectronics.com/1uf-250v-105c-radial-electrolytic-capacitor-6-3x12mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "4700u_50V",
+    "sku": "A-4546",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "4700uF 50V 105C Radial Electrolytic Capacitor 19x40mm",
+    "url": "https://www.taydaelectronics.com/4700uf-50v-105c-radial-electrolytic-capacitor-19x40mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "470u_100V",
+    "sku": "A-4545",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "470uF 100V 105C Radial Electrolytic Capacitor 16x26mm",
+    "url": "https://www.taydaelectronics.com/470uf-100v-105c-radial-electrolytic-capacitor-16x26mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_250V",
+    "sku": "A-4544",
+    "info": {
+      "voltage": "250V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 250V 105C Radial Electrolytic Capacitor 16x32mm",
+    "url": "https://www.taydaelectronics.com/100uf-250v-105c-radial-electrolytic-capacitor-16x32mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "2.2u_35V",
+    "sku": "A-4517",
+    "info": {
+      "voltage": "35V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "2.2uF 35V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/2-2uf-35v-105c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "100u_6.3V",
+    "sku": "A-4528",
+    "info": {
+      "voltage": "unknown",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "100uF 6.3V 105C Radial Electrolytic Capacitor 5x7mm",
+    "url": "https://www.taydaelectronics.com/100uf-6-3v-105c-radial-electrolytic-capacitor-6x6mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "0.22u_50V",
+    "sku": "A-4512",
+    "info": {
+      "voltage": "50V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "0.22uF 50V 105C Radial Electrolytic Capacitor 5x11mm",
+    "url": "https://www.taydaelectronics.com/0-22uf-50v-105c-radial-electrolytic-capacitor-5x11mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1u_100V",
+    "sku": "A-4507",
+    "info": {
+      "voltage": "100V",
+      "smd": false,
+      "throughHole": true
+    },
+    "issues": [],
+    "title": "1uF 100V 105C Radial Electrolytic Capacitor 5x12mm",
+    "url": "https://www.taydaelectronics.com/1uf-100v-85c-radial-electrolytic-capacitor-5x12mm.html"
+  },
+  {
+    "type": "electrolytic",
+    "value": "1u_50V",
+    "sku": "A-957",
+    "info": {},
+    "issues": [
+      "fetch error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    14 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n       - waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div :class=\"magebitTaydaHtmlNoticesClass562\" class=\"backdrop hidden fixed w-screen h-screen bg-black/40 !block\"></div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - <div class=\"flex flex-col lg:flex-row py-8 lg:py-12 justify-between container gap-4 lg:gap-20\">…</div> from <section class=\"relative z-50\" x-bind=\"eventListeners\" x-data=\"magebitTaydaHtmlNotices\" x-init=\"magebitTaydaHtmlNoticesInit556\" @private-content-loaded.window=\"magebitTaydaHtmlNoticesPrivateContentLoadedWindow557\">…</section> subtree intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n"
+    ],
+    "title": "error",
+    "url": ""
+  }
+]

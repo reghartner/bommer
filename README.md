@@ -1,139 +1,147 @@
-Bommer
-- 
-Combine guitar pedal BOMs and get Tayda Quick Order Output!
+# bommer
 
+Combine guitar pedal build-doc PDFs and generate a [Tayda Electronics](https://www.taydaelectronics.com) quick-order list.
 
-`npm install`
+Drop in one PDF or a whole folder of them. Bommer parses the BOM, consolidates quantities across all builds, matches parts to Tayda SKUs, and prints a ready-to-paste order list plus a table of anything it couldn't match.
 
-`node bommer.js [FILE].pdf`
+---
 
-or
-
-`node bommer.js [DIRECTORY OF PDFS]`
-
-Flags: 
-
-- `--d` debug logging - useful for sanity checking when combining large numbers of PDFs
-- `--v` verbose logging
-
-
-Tested BOMs
--
-
-- PedalPCB modern, one item per row (location, value, type, notes)
-- Effects Layouts modern "Shopping List"
-- Generic multi-column location/component BOMs - These are less reliable, run them with the `--d` flag and check the parsing
-
-
-Sample Output
-- 
+## Setup
 
 ```
-bommer % node bommer.js ./pdfs
-Processed file BellumMKII-PedalPCB.pdf - Detected BOM Type: Parts List, Parts Found: 49, Unique Items: 26
-Processed file Long-Tom-build-doc.pdf - Detected BOM Type: Shopping List, Parts Found: 34, Unique Items: 28
+npm install
+```
 
-=== Final Consolidated BOM ===
+---
+
+## Usage
+
+```
+node bommer2.js [FILE.pdf | DIRECTORY]
+```
+
+**Flags**
+
+| Flag | Description |
+|------|-------------|
+| `--debug` or `--d` | Show per-row parsing decisions — useful for diagnosing a new PDF format |
+
+**Examples**
+
+```bash
+# Single build
+node bommer2.js pdfs/BlueBreaker-PedalPCB.pdf
+
+# Whole pedal folder — consolidated shopping list for everything
+node bommer2.js pdfs/
+```
+
+---
+
+## Supported PDF Formats
+
+Bommer auto-detects the BOM format inside each PDF:
+
+| Format | Examples | Structure |
+|--------|----------|-----------|
+| **Parts List** | PedalPCB, Aion FX | `location, value, type, notes` — one part per row |
+| **Shopping List** | Effects Layouts, Long-Tom, Mad Bean | `value, ..., qty` or `value, qty, type, rating` |
+| **Generic** | Abyss | Scans all columns for location codes (R1, C3, Q2…) |
+
+Tested build docs:
+
+- **PedalPCB** — BlueBreaker, Bellum MkII, Referee
+- **Aion FX** — Neurotron (including transformers, LDRs, rotary switches, resistance-first pot notation)
+- **Mad Bean Pedals** — Cosmopolitan Fuzz, Aquababy Delay, Blue Steel Overdrive, Pork Barrel Chorus
+- **Effects Layouts** — Distortion Supreme, Tonsorium
+- **Long-Tom** — heavily fragmented shopping list rows
+
+---
+
+## SKU Database (`tayda_skus.json`)
+
+Bommer matches each parsed part against `tayda_skus.json`. Component specs are curated for guitar pedal use:
+
+| Category | Spec |
+|----------|------|
+| **Resistors** | 1/4W metal film |
+| **Ceramic caps** | Through-hole MLCC (AEC/Tayda/Multicomp, 50V) where available; disc ceramic for values not stocked as MLCC |
+| **Film caps** | Through-hole polyester, ≤100V, 5% tolerance (cheapest in-stock option) |
+| **Electrolytic caps** | Through-hole aluminium, ≥25V — no sub-25V fallbacks |
+| **Potentiometers** | Alpha/Tayda 16mm, **6.35mm round shaft**, PCB mount |
+| **Trimpots** | Tokyo Denshi RM-065 top-adjust, through-hole |
+| **LEDs** | 3mm diffused (colour-matched to BOM spec) |
+| **Switches** | Dailywell 1M series toggle (SPDT/DPDT); SPST E-TEN |
+
+**Ordering rules**
+
+- Resistors and ceramic caps are rounded up to the nearest 10.
+- Electrolytics look up voltage in priority order: 25V → 35V → 50V → 63V → 100V.
+- Anything without a matching SKU lands in the "order manually" table at the end.
+
+**Parts never on Tayda** (always manual):
+
+- Rotary switches (3P4T etc.)
+- Vactrols / LDR assemblies (NSL-19M51)
+- Transformers (LT44)
+- Vintage/discontinued transistors (2SK170, AC127, germanium types)
+
+---
+
+## Sample Output
+
+```
+BlueBreaker-PedalPCB.pdf — Parts List, 31 parts, 19 unique
+
+=== Consolidated BOM ===
 ┌─────────┬─────────────────┬──────────┬──────────┐
 │ (index) │ type            │ value    │ quantity │
 ├─────────┼─────────────────┼──────────┼──────────┤
-│ 0       │ 'ceramic'       │ '100p'   │ 1        │
-│ 1       │ 'ceramic'       │ '470p'   │ 2        │
-│ 2       │ 'ceramic'       │ '680p'   │ 1        │
-│ 3       │ 'diode'         │ '1N34A'  │ 2        │
-│ 4       │ 'diode'         │ '1N5817' │ 2        │
-│ 5       │ 'electrolytic'  │ '100u'   │ 2        │
-│ 6       │ 'electrolytic'  │ '10u'    │ 1        │
-│ 7       │ 'electrolytic'  │ '1u'     │ 1        │
-│ 8       │ 'electrolytic'  │ '3.3u'   │ 1        │
-│ 9       │ 'electrolytic'  │ '4.7u'   │ 2        │
-│ 10      │ 'film'          │ '100n'   │ 8        │
-│ 11      │ 'film'          │ '10n'    │ 1        │
-│ 12      │ 'film'          │ '1n'     │ 1        │
-│ 13      │ 'film'          │ '2.2n'   │ 1        │
-│ 14      │ 'film'          │ '22n'    │ 1        │
-│ 15      │ 'film'          │ '47n'    │ 1        │
-│ 16      │ 'film'          │ '6.8n'   │ 1        │
-│ 17      │ 'ic'            │ 'TL071'  │ 1        │
-│ 18      │ 'potentiometer' │ 'A100K'  │ 2        │
-│ 19      │ 'potentiometer' │ 'B100K'  │ 3        │
-│ 20      │ 'potentiometer' │ 'B1K'    │ 1        │
-│ 21      │ 'potentiometer' │ 'B50K'   │ 1        │
-│ 22      │ 'resistor'      │ '1.5K'   │ 2        │
-│ 23      │ 'resistor'      │ '100K'   │ 7        │
-│ 24      │ 'resistor'      │ '100R'   │ 1        │
-│ 25      │ 'resistor'      │ '10K'    │ 2        │
-│ 26      │ 'resistor'      │ '15K'    │ 3        │
-│ 27      │ 'resistor'      │ '1K'     │ 3        │
-│ 28      │ 'resistor'      │ '1M'     │ 3        │
-│ 29      │ 'resistor'      │ '2.2K'   │ 2        │
-│ 30      │ 'resistor'      │ '33K'    │ 1        │
-│ 31      │ 'resistor'      │ '390R'   │ 2        │
-│ 32      │ 'resistor'      │ '4.7K'   │ 2        │
-│ 33      │ 'resistor'      │ '430K'   │ 1        │
-│ 34      │ 'resistor'      │ '43K'    │ 1        │
-│ 35      │ 'resistor'      │ '470K'   │ 3        │
-│ 36      │ 'resistor'      │ '47R'    │ 1        │
-│ 37      │ 'resistor'      │ '560R'   │ 1        │
-│ 38      │ 'resistor'      │ '6.8K'   │ 1        │
-│ 39      │ 'resistor'      │ '8.2K'   │ 2        │
-│ 40      │ 'resistor'      │ '820R'   │ 1        │
-│ 41      │ 'switch'        │ 'SPDT'   │ 1        │
-│ 42      │ 'switch'        │ 'SPST'   │ 1        │
-│ 43      │ 'transistor'    │ '2N5088' │ 4        │
-│ 44      │ 'transistor'    │ '2N5457' │ 1        │
+│ 0       │ 'ceramic'       │ '47p'    │ 1        │
+│ 1       │ 'diode'         │ '1N5817' │ 1        │
+│ 2       │ 'diode'         │ '1N914'  │ 4        │
+│ 3       │ 'electrolytic'  │ '100u'   │ 2        │
+│ 4       │ 'film'          │ '100n'   │ 2        │
+│ 5       │ 'film'          │ '10n'    │ 5        │
+│ 6       │ 'ic'            │ 'TL072'  │ 1        │
+│ 7       │ 'potentiometer' │ 'A100K'  │ 1        │
+│ 8       │ 'potentiometer' │ 'B100K'  │ 1        │
+│ 9       │ 'potentiometer' │ 'B25K'   │ 1        │
+│ 10      │ 'resistor'      │ '10K'    │ 1        │
+│ ...     │ ...             │ ...      │ ...      │
 └─────────┴─────────────────┴──────────┴──────────┘
 
 === Tayda Quick Order ===
-A-4170,10
-A-968,10
-A-541,10
-A-159,2
-A-4538,2
-A-4554,1
-A-4505,1
-A-4524,1
-A-4555,2
-A-564,8
-A-559,1
-A-557,1
-A-558,1
-A-560,1
-A-563,1
-A-421,1
-A-1135,1
-A-5521,2
-A-5519,3
-A-5409,1
-A-5524,1
-A-2202,10
-A-2248,10
-A-2245,10
-A-2203,10
-A-2182,10
-A-2200,10
-A-2277,10
-A-2341,10
-A-2290,10
-A-2315,10
-A-2310,10
-A-2779,10
-A-2774,10
-A-2180,10
-A-2190,10
-A-2282,10
-A-2328,10
-A-2337,10
-A-2323,10
-A-095,4
-A-6779,1
+A-1352,10    47p ceramic (need 1)
+A-159,1      1N5817 diode
+A-615,4      1N914 diode
+A-6478,2     100u electrolytic
+A-4110,2     100n film
+A-1078,5     10n film
+A-1136,1     TL072 ic
+A-5521,1     A100K potentiometer
+A-5519,1     B100K potentiometer
+A-5598,1     B25K potentiometer
+A-7636,10    10K resistor (need 1)
+...
 
-=== Parts still to order manually ===
-┌─────────┬──────────┬─────────┬──────────┐
-│ (index) │ type     │ value   │ quantity │
-├─────────┼──────────┼─────────┼──────────┤
-│ 0       │ 'diode'  │ '1N34A' │ 2        │
-│ 1       │ 'switch' │ 'SPDT'  │ 1        │
-│ 2       │ 'switch' │ 'SPST'  │ 1        │
-└─────────┴──────────┴─────────┴──────────┘
+✅ All parts matched to SKUs
 ```
+
+Paste the Tayda Quick Order lines directly into [Tayda's Quick Order page](https://www.taydaelectronics.com/quick-order/).
+
+---
+
+## Adding SKUs
+
+`tayda_skus.json` is a plain JSON file organised by component type. To add a missing part:
+
+```json
+{
+  "diode": {
+    "9.1V ZENER": "A-XXXX"
+  }
+}
+```
+
+Electrolytic caps include the voltage in the key: `"47u_25V": "A-6062"`. The lookup tries 25V first, then 35V, 50V, 63V, 100V — so add the voltage that matches what Tayda stocks.
