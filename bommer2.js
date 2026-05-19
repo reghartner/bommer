@@ -11,6 +11,7 @@ const DEBUG = process.argv.includes("--debug") || process.argv.includes("--d");
 function typeFromLocation(loc) {
   loc = loc.trim().toUpperCase();
   if (/^R\d+$/.test(loc))              return "resistor";
+  if (/^CLR$/.test(loc))               return "resistor";    // LED current limiting resistor
   if (/^C\d+$/.test(loc))              return "capacitor";   // sub-typed from value
   if (/^Q\d+$/.test(loc))              return "transistor";
   if (/^D\d+$/.test(loc))              return "diode";
@@ -63,6 +64,7 @@ function normalizeCapacitor(raw, context) {
 
   // Normalise suffix
   let value = s
+    .replace(/mlcc|disc|ceramic/gi, "")
     .replace(/µ|μ/g, "u").replace("uf", "u").replace("mf", "u")
     .replace("pf", "p").replace("nf", "n");
 
@@ -170,21 +172,31 @@ function normalizeTrimpot(raw) {
   return m ? m[1] : raw.trim().toUpperCase();
 }
 
+// Jellybean ICs identical across manufacturers — just the core number matters.
+// JRC4558, NJM4558, RC4558, MC4558 → "4558"; UA741, LM741 → "741"; etc.
+// Match: non-digit before core, non-digit after (avoids SN74123 matching "741").
+const GENERIC_IC_CORES = ["4558", "741", "1458"];
+
 const KNOWN_ICS = [
-  "TL071","TL072","TL074","TL082","TL084","NE5532","NE5534","LM741","LM1458",
-  "LM324","LM308","LM386","OP275","OP07","NJM4558","RC4558","LM13700","PT2399",
+  "TL071","TL072","TL074","TL082","TL084","NE5532","NE5534",
+  "LM324","LM308","LM386","OP275","OP07","LM13700","PT2399",
   "TL022","TL062","TL064","CA3130","LM358","LM833",
   "CD4053","CD4069","CD4066","CD4013","CD4040","CD4049","CD4093",
-].sort((a, b) => b.length - a.length); // longest first to avoid prefix collision
+].sort((a, b) => b.length - a.length);
 
 function normalizeIc(raw) {
   const uc = raw.trim().toUpperCase();
+  for (const core of GENERIC_IC_CORES) {
+    if (new RegExp(`(?<!\\d)${core}(?!\\d)`).test(uc)) return core;
+  }
   for (const ic of KNOWN_ICS) {
     const idx = uc.indexOf(ic);
     if (idx === -1) continue;
-    // Ensure it's not in the middle of a larger alphanumeric token
     const before = uc[idx - 1];
     if (before && /[A-Z0-9]/.test(before)) continue;
+    // Reject digit suffix so "LM308" doesn't match "LM3080" (different IC)
+    const after = uc[idx + ic.length];
+    if (after && /\d/.test(after)) continue;
     return ic;
   }
   return uc;
@@ -257,6 +269,9 @@ const NOISE = [
   /WIRING DIAGRAM|SCHEMATIC DIAGRAM/i,
 ];
 function isNoise(row) {
+  // If any cell is a recognizable location code, treat as data — multi-column
+  // PDFs can splice a section header onto the end of a data row.
+  if (row.some(c => typeFromLocation((c ?? "").trim()))) return false;
   const flat = row.join(" ");
   return NOISE.some(r => r.test(flat));
 }
@@ -275,7 +290,10 @@ function extractPartsList(rows) {
   const parts = [];
   for (const row of rows) {
     if (isNoise(row) || row.length < 2) continue;
-    if (row.length > 8) continue; // schematic/diagram rows have 15+ cells
+    // Drop schematic/diagram rows (15+ cells, no location code). Verbose data
+    // rows (transistor spec notes, slide-pot descriptions) keep a location
+    // code in cell 0 and should be processed.
+    if (row.length > 8 && !typeFromLocation((row[0] ?? "").trim())) continue;
     const [location, value] = row;
     const ctx = row.join(" ");
 
@@ -593,9 +611,13 @@ function findSku(skus, type, value) {
     for (const v of ELEC_VOLTAGES) {
       if (map[`${value}_${v}`]) return map[`${value}_${v}`];
     }
-    // last resort: any key starting with value_
     const k = Object.keys(map).find(k => k.startsWith(value + "_"));
     if (k) return map[k];
+  }
+  // Transistor fallback: strip gain-group suffix (BC550C → BC550, BC107B → BC107)
+  if (type === "transistor") {
+    const stripped = value.replace(/([A-Z]{2}\d{3})[A-Z]$/, "$1");
+    if (stripped !== value && map[stripped]) return map[stripped];
   }
   return null;
 }
@@ -643,5 +665,5 @@ async function main() {
   printTaydaOrder(bom);
 }
 
-main().catch(console.error);
-module.exports = { extractFileParts, extractFolderParts };
+if (require.main === module) main().catch(console.error);
+module.exports = { extractFileParts, extractFolderParts, buildBom, findSku };
