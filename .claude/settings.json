@@ -1,0 +1,12 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash(npm *)",
+            "Bash(curl *)",
+            "Bash(node *)",
+            "Bash(npx *)",
+            "Bash(* tayda_verify.js *)",
+            "Bash(* bommer2.js *)"
+        ]
+    }
+}

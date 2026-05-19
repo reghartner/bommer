@@ -50,7 +50,7 @@ Bommer auto-detects the BOM format inside each PDF:
 
 Tested build docs:
 
-- **PedalPCB** — BlueBreaker, Bellum MkII, Referee
+- **PedalPCB** — BlueBreaker, Bellum MkII, Referee, 401K, 410 Fuzz, Aberration Fuzz, 5lb Bag, 3-Channel Splitter, 4-Tap DC Isolator, 6-Band EQ, Arachnid, Abider
 - **Aion FX** — Neurotron (including transformers, LDRs, rotary switches, resistance-first pot notation)
 - **Mad Bean Pedals** — Cosmopolitan Fuzz, Aquababy Delay, Blue Steel Overdrive, Pork Barrel Chorus
 - **Effects Layouts** — Distortion Supreme, Tonsorium
