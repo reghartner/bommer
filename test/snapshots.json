@@ -1,0 +1,1685 @@
+{
+  "BlueBreaker-PedalPCB.pdf": {
+    "totalParts": 32,
+    "uniqueParts": 20,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "47p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N914",
+        "quantity": 4
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "10n",
+        "quantity": 5
+      },
+      {
+        "type": "ic",
+        "value": "TL072",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "A100K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B100K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B25K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "2.2M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "220K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "27K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "33K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "47K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "6.8K",
+        "quantity": 2
+      }
+    ],
+    "manualParts": []
+  },
+  "401K-PedalPCB.pdf": {
+    "totalParts": 56,
+    "uniqueParts": 30,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "150p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N914",
+        "quantity": 2
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "10u",
+        "quantity": 2
+      },
+      {
+        "type": "electrolytic",
+        "value": "1u",
+        "quantity": 4
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "10n",
+        "quantity": 4
+      },
+      {
+        "type": "film",
+        "value": "1n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "1u",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "2.2n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "47n",
+        "quantity": 1
+      },
+      {
+        "type": "ic",
+        "value": "LM3080",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B250K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B50K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "C250K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "C500K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 7
+      },
+      {
+        "type": "resistor",
+        "value": "150K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "15K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 4
+      },
+      {
+        "type": "resistor",
+        "value": "220K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "27K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "390K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "470K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "56K",
+        "quantity": 2
+      },
+      {
+        "type": "transistor",
+        "value": "2N3904",
+        "quantity": 5
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "ic",
+        "value": "LM3080"
+      }
+    ]
+  },
+  "410Fuzz-PedalPCB.pdf": {
+    "totalParts": 20,
+    "uniqueParts": 18,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "470p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "50p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "22u",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "1u",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "4.7n",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "A500K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B100K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B1K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "10M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "120K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "18K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "820R",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "BC550C",
+        "quantity": 2
+      },
+      {
+        "type": "trimpot",
+        "value": "10K",
+        "quantity": 1
+      }
+    ],
+    "manualParts": []
+  },
+  "AberrationFuzz-PedalPCB.pdf": {
+    "totalParts": 45,
+    "uniqueParts": 28,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "10p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "150p",
+        "quantity": 2
+      },
+      {
+        "type": "ceramic",
+        "value": "220p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N4148",
+        "quantity": 6
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "1u",
+        "quantity": 2
+      },
+      {
+        "type": "electrolytic",
+        "value": "22u",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 3
+      },
+      {
+        "type": "film",
+        "value": "15n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "22n",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "A10K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "C100K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "C500K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1.5K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "100R",
+        "quantity": 4
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "2.2M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "220K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "470K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "680R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "68K",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "BC107B",
+        "quantity": 2
+      },
+      {
+        "type": "transistor",
+        "value": "MP38A",
+        "quantity": 1
+      },
+      {
+        "type": "trimpot",
+        "value": "10K",
+        "quantity": 1
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "transistor",
+        "value": "MP38A"
+      }
+    ]
+  },
+  "5lbBag-PedalPCB.pdf": {
+    "totalParts": 43,
+    "uniqueParts": 30,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "100p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N34A",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N4148",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "BAT46",
+        "quantity": 2
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "1u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "22u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "47u",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 4
+      },
+      {
+        "type": "film",
+        "value": "3.3n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "470n",
+        "quantity": 2
+      },
+      {
+        "type": "ic",
+        "value": "NE5532",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B100K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B50K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "C1K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "100K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "120K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "220K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "330R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "33K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "470K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "470R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "47R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "82K",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "2N3906",
+        "quantity": 2
+      },
+      {
+        "type": "transistor",
+        "value": "2N7000",
+        "quantity": 2
+      },
+      {
+        "type": "trimpot",
+        "value": "10K",
+        "quantity": 1
+      }
+    ],
+    "manualParts": []
+  },
+  "3ChannelSplitter-PedalPCB.pdf": {
+    "totalParts": 42,
+    "uniqueParts": 15,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "100p",
+        "quantity": 6
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "10u",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "1u",
+        "quantity": 4
+      },
+      {
+        "type": "ic",
+        "value": "TL072",
+        "quantity": 4
+      },
+      {
+        "type": "potentiometer",
+        "value": "A100K",
+        "quantity": 3
+      },
+      {
+        "type": "potentiometer",
+        "value": "A500K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "100K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 12
+      },
+      {
+        "type": "resistor",
+        "value": "10R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "470K",
+        "quantity": 1
+      },
+      {
+        "type": "switch",
+        "value": "SPDT ON/ON",
+        "quantity": 3
+      }
+    ],
+    "manualParts": []
+  },
+  "6BandEQ.pdf": {
+    "totalParts": 49,
+    "uniqueParts": 23,
+    "bom": [
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "10n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "120n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "15n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "1u",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "220n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "33n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "470n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "68n",
+        "quantity": 3
+      },
+      {
+        "type": "ic",
+        "value": "TL074",
+        "quantity": 2
+      },
+      {
+        "type": "potentiometer",
+        "value": "B50K",
+        "quantity": 6
+      },
+      {
+        "type": "resistor",
+        "value": "1.2K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 6
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "20K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "22K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "24K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "330K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "470K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "470R",
+        "quantity": 5
+      }
+    ],
+    "manualParts": []
+  },
+  "4TapDCIsolator-PedalPCB.pdf": {
+    "totalParts": 15,
+    "uniqueParts": 4,
+    "bom": [
+      {
+        "type": "diode",
+        "value": "1N5819",
+        "quantity": 4
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 6
+      },
+      {
+        "type": "ic",
+        "value": "IEB0105S09",
+        "quantity": 4
+      },
+      {
+        "type": "ic",
+        "value": "L7805CV",
+        "quantity": 1
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "ic",
+        "value": "IEB0105S09"
+      },
+      {
+        "type": "ic",
+        "value": "L7805CV"
+      }
+    ]
+  },
+  "Arachnid.pdf": {
+    "totalParts": 58,
+    "uniqueParts": 26,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "15p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "1u",
+        "quantity": 6
+      },
+      {
+        "type": "ceramic",
+        "value": "220p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "470p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N914",
+        "quantity": 9
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "10u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "47u",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "1n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "2.2n",
+        "quantity": 1
+      },
+      {
+        "type": "ic",
+        "value": "24LC32A",
+        "quantity": 1
+      },
+      {
+        "type": "ic",
+        "value": "FV1",
+        "quantity": 1
+      },
+      {
+        "type": "ic",
+        "value": "L78L33",
+        "quantity": 1
+      },
+      {
+        "type": "ic",
+        "value": "TL074",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B100K",
+        "quantity": 4
+      },
+      {
+        "type": "potentiometer",
+        "value": "B10K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "100K",
+        "quantity": 5
+      },
+      {
+        "type": "resistor",
+        "value": "100R",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "15K",
+        "quantity": 6
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "switch",
+        "value": "1P8T ROTARY",
+        "quantity": 1
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "ceramic",
+        "value": "1u"
+      },
+      {
+        "type": "ic",
+        "value": "24LC32A"
+      },
+      {
+        "type": "ic",
+        "value": "FV1"
+      },
+      {
+        "type": "ic",
+        "value": "L78L33"
+      },
+      {
+        "type": "switch",
+        "value": "1P8T ROTARY"
+      }
+    ]
+  },
+  "Abider.pdf": {
+    "totalParts": 91,
+    "uniqueParts": 55,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "100p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "120p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "220p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "470p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "47p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N4001",
+        "quantity": 2
+      },
+      {
+        "type": "diode",
+        "value": "1N4148",
+        "quantity": 6
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "1u",
+        "quantity": 2
+      },
+      {
+        "type": "electrolytic",
+        "value": "2.2u",
+        "quantity": 3
+      },
+      {
+        "type": "electrolytic",
+        "value": "4.7u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "47u",
+        "quantity": 3
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 4
+      },
+      {
+        "type": "film",
+        "value": "120n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "150n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "1n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "2.7n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "220n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "22n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "27n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "4.7n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "470n",
+        "quantity": 3
+      },
+      {
+        "type": "film",
+        "value": "47n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "8.2n",
+        "quantity": 2
+      },
+      {
+        "type": "ic",
+        "value": "4558",
+        "quantity": 3
+      },
+      {
+        "type": "potentiometer",
+        "value": "A250K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B10K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B50K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "C25K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1.2K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1.5K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1.8K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 5
+      },
+      {
+        "type": "resistor",
+        "value": "12K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "130K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "150K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "15K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "2.2K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "2.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "20K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "22K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "27K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "3.3K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "330K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "33K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "39K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "470K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "470R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "5.1K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "68K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "820R",
+        "quantity": 2
+      },
+      {
+        "type": "transistor",
+        "value": "2N3904",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "J201",
+        "quantity": 1
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "potentiometer",
+        "value": "C25K"
+      }
+    ]
+  },
+  "MadBean-Cosmopolitan-Fuzz.pdf": {
+    "totalParts": 41,
+    "uniqueParts": 29,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "200p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "470p",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N4001",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "9.1V ZENER",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 3
+      },
+      {
+        "type": "film",
+        "value": "100n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "15n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "1n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "220n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "3.3n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "4.7n",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "47n",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "A100K",
+        "quantity": 2
+      },
+      {
+        "type": "potentiometer",
+        "value": "B100K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B1K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B2K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "100K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "100R",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "2.7K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "33K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "47R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "680R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "8.2K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "820R",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "AC127",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "BC109",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "BS170",
+        "quantity": 1
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "diode",
+        "value": "9.1V ZENER"
+      },
+      {
+        "type": "transistor",
+        "value": "AC127"
+      }
+    ]
+  },
+  "Long-Tom-build-doc.pdf": {
+    "totalParts": 37,
+    "uniqueParts": 30,
+    "bom": [
+      {
+        "type": "ceramic",
+        "value": "100p",
+        "quantity": 1
+      },
+      {
+        "type": "ceramic",
+        "value": "10n",
+        "quantity": 1
+      },
+      {
+        "type": "diode",
+        "value": "1N5817",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "100u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "10u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "1u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "3.3u",
+        "quantity": 1
+      },
+      {
+        "type": "electrolytic",
+        "value": "4.7u",
+        "quantity": 2
+      },
+      {
+        "type": "film",
+        "value": "1n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "22n",
+        "quantity": 1
+      },
+      {
+        "type": "film",
+        "value": "47n",
+        "quantity": 1
+      },
+      {
+        "type": "ic",
+        "value": "TL071",
+        "quantity": 1
+      },
+      {
+        "type": "led",
+        "value": "any",
+        "quantity": 1
+      },
+      {
+        "type": "led",
+        "value": "Red",
+        "quantity": 2
+      },
+      {
+        "type": "potentiometer",
+        "value": "A100K",
+        "quantity": 2
+      },
+      {
+        "type": "potentiometer",
+        "value": "B1K",
+        "quantity": 1
+      },
+      {
+        "type": "potentiometer",
+        "value": "B50K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1.5K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "100K",
+        "quantity": 3
+      },
+      {
+        "type": "resistor",
+        "value": "10K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "1K",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "1M",
+        "quantity": 2
+      },
+      {
+        "type": "resistor",
+        "value": "2.2K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "4.7K",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "47R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "560R",
+        "quantity": 1
+      },
+      {
+        "type": "resistor",
+        "value": "820R",
+        "quantity": 1
+      },
+      {
+        "type": "switch",
+        "value": "SPDT",
+        "quantity": 1
+      },
+      {
+        "type": "switch",
+        "value": "SPST",
+        "quantity": 1
+      },
+      {
+        "type": "transistor",
+        "value": "2N5457",
+        "quantity": 1
+      }
+    ],
+    "manualParts": [
+      {
+        "type": "led",
+        "value": "any"
+      }
+    ]
+  }
+}
